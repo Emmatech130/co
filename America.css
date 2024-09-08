@@ -1,0 +1,69 @@
+body {
+    background-color: white;
+}
+
+h2 {
+    text-align: center;
+    text-decoration: underline;
+    color: blue;
+}
+
+h3 {
+    text-align: center;
+    color: blue;
+}
+
+.pix {
+    float: right;
+}
+
+table {
+    width: 100%;
+    margin-left: 10%;
+}
+
+a{
+    font-size: large;
+    text-decoration: solid;
+    text-decoration: underline;
+}
+
+input,
+select {
+    
+    margin: 10px;
+    width: 65%;
+    height: 10%;
+    padding: 10px;
+    border-radius: 20px;
+    border: 5px solid green;
+}
+
+label {
+    width: 30%;
+    text-align: right;
+    margin: 5px;
+    padding-right: 10px;
+}
+
+.form{
+    
+    width: 60%;
+    margin: 100px;
+}
+
+.one {
+    width: 50%;
+    text-align: center;
+    background-color: white;
+    border-radius: 20%;
+}
+
+.left {
+    margin-right: 100%;
+}
+
+.emma {
+    color: brown;
+    font-style: italic;
+}
